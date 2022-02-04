@@ -1,0 +1,29 @@
+body {
+    padding: 20px;
+}
+
+p {
+    color: green;
+}
+
+/* Classes e Ids */
+.meu-paragrafo {
+    background-color: black;
+    color: red;
+}
+
+#titulo-principal {
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    font-family: Helvetica;
+}
+
+/* Todos os elementos, listas */
+* {
+    font-family: arial;
+}
+
+p, h1 {
+    border-bottom: 1px solid red;
+}
